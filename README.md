@@ -1,5 +1,5 @@
-## Hi i'm KevinGomez 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1092&color=F70000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Frontend+%7C+Backend+Developer;Always+learning+new+things;Exploring+new+technologies" alt="Typing SVG" /></a>
+<h1 align="center">Hi , I'm Kevin Gomez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1092&color=1E3A8A&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Frontend+%7C+Backend+Developer;Always+learning+new+things;Exploring+new+technologies" alt="Typing SVG" /></a>
 <!--
 **kevinprogome/kevinprogome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

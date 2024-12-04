@@ -2,6 +2,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1092&color=1E3A8A&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Frontend+%7C+Backend+Developer;Always+learning+new+things;Exploring+new+technologies" alt="Typing SVG" /></a>
 </p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinprogome&theme=algolia" alt="kevinprogome"  /></p>
 <!--
 **kevinprogome/kevinprogome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
